@@ -10,6 +10,6 @@ public class HelloWorldExample {
     @GetMapping("/message")
     public String getMessage(){
         System.out.println("##########################");
-        return "Hello World Ruksar";
+        return "Hello World PSA";
     }
 }
